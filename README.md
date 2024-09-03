@@ -55,7 +55,6 @@
 	- users can use voice commands to switch between different pages of the app, such as go back or next page.
 
 ## Future scopes
-
 - Integration with E-Commerce application
 	- The integration enables users to search for desired items directly within the News Application, Can add item in the cart by user permission, can get users shipping address, etc
    
@@ -79,7 +78,6 @@
 
 
 ## Installation
-
 Install my-project with npm
 
 ```bash
