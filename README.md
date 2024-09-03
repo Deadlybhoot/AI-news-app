@@ -55,6 +55,18 @@
 	- users can use voice commands to switch between different pages of the app, such as go back or next page.
 
 ## Future scopes
+
+- Integration with E-Commerce application
+	- The integration enables users to search for desired items directly within the News Application, Can add item in the cart by user permission, can get users shipping address, etc
+   
+- Multilingual Support
+	- Allowing users to access news content in their preferred language. 
+
+- Personalized News Recommendations
+	- By leveraging machine learning algorithms, we can analyze user behavior and provide news articles that are more relevant and tailored to their individual interests and preferences.
+   
+
+
 ## Tech Stack
 
 - python
